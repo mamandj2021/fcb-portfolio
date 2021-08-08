@@ -39,3 +39,9 @@ ul{
 	width: 75%;
 }
 
+h2{
+	color: #007bff;
+
+html{
+	scroll-behavior: smooth;
+}
